@@ -184,8 +184,8 @@ Contains all academic output from this project:
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/tanuj-j18/media-Bias-BTP-work.git
+cd media-Bias-BTP-work
 
 # Install dependencies
 pip install -r requirements.txt
